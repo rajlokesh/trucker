@@ -1,1 +1,1 @@
-This is readme for trucker
+Readme for trucker
