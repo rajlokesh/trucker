@@ -1,1 +1,2 @@
-Readme for trucker
+Readme for trucker.
+This is a Fleet management IoT api.
